@@ -1,11 +1,5 @@
 # Local Binary Patterns descriptor with Support Vector Machine, Random Forest and Multi-layer Perceptron classifiers
 
-## Equipe
-
-- João Gabriel Eler Mendes
-- Giulia de Paula Melão
-- Cristiane Fujihara Costa
-
 ## Descritor Implementado
 
 O descritor LBP (Local Binary Pattern) é uma técnica popular de extração de características em visão computacional e análise de imagens. Desenvolvido para representar texturas em imagens, o LBP é particularmente eficaz em aplicações como reconhecimento facial, detecção de texturas e classificação de imagens.

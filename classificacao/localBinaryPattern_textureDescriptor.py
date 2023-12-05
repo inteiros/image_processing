@@ -12,7 +12,7 @@ class LocalBinaryPatterns:
         self.radius = radius
 
     def describe(self, images, eps=1e-7):
-        bar = Bar('[INFO] Extrating LBP features...',max=len(images),suffix='%(index)d/%(max)d  Duration:%(elapsed)ds')
+        bar = Bar('[INFO] Extrating LBP features...', max=len(images), suffix='%(index)d/%(max)d  Duration:%(elapsed)ds')
         
         featuresList = []
         for image in images:
